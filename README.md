@@ -1,3 +1,7 @@
-# react-redux-webpack
+React-Redux-Webpack
+===================
 
-React-redux-webpack projects base setup with react-hot-loader and redux devtools
+Generic setup for react projects with redux and webpack.
+_features:_
+* react-hot-loader
+* redux devtools
