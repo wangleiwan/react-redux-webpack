@@ -4,7 +4,7 @@ class AppContainer extends Component {
   render() {
     return (
       <div>
-        Hello World!
+        Hello React!
       </div>
     );
   }

@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import dashboard from './dashboard';
+import yourReducer from './yourReducer';
 
 const rootReducer = combineReducers({
-  dashboard,
+  yourReducer,
 });
 
 export default rootReducer;
